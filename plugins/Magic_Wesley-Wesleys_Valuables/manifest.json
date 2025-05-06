@@ -1,0 +1,10 @@
+{
+    "name": "Wesleys_Valuables",
+    "version_number": "1.0.3",
+    "website_url": "",
+    "description": "Adds a bunch new valuables",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Zehs-REPOLib-1.2.0"
+    ]
+}

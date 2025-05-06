@@ -1,0 +1,10 @@
+{
+    "name": "CustomGrabColor",
+    "version_number": "2.1.0",
+    "website_url": "https://github.com/Enchanted-Games/CustomGrabColour-REPO",
+    "description": "Lets you change your grab beam colour. Customisable and fully multiplayer compatible!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "nickklmao-MenuLib-2.2.0"
+    ]
+}

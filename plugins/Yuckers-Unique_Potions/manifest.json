@@ -1,0 +1,10 @@
+{
+	"name" : "Unique_Potions",
+	"version_number" : "0.6.3",
+	"website_url" : "",
+	"description" : "REPO ALCHEMY COMPATABILITY! Adds a variety of valuable potions and purchaseable elixirs with unique effects.",
+	"dependencies" : [
+		"Zehs-REPOLib-2.0.1",
+		"Lunoid-REPO_Alchemy-1.0.0"
+	]
+}

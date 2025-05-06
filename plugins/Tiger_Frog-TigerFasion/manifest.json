@@ -1,0 +1,9 @@
+{
+    "name": "TigerFasion",
+    "version_number": "1.0.11",
+    "website_url": "",
+    "description": "Adds more suits and cosmetics for Tiger's friends.",
+    "dependencies": [
+	"YMC_MHZ-MoreHead-1.2.3"
+    ]
+}

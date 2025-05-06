@@ -1,0 +1,9 @@
+{
+  "name": "SteampunkItems",
+  "description": "Adds [6] Valuables and [1] Item",
+  "version_number": "1.1.2",
+  "dependencies": [
+    "Zehs-REPOLib-2.0.1"
+  ],
+  "website_url": "https://github.com/s1ckboii/SteampunkItems"
+}

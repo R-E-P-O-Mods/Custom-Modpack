@@ -1,0 +1,10 @@
+{
+    "name": "Hospital_Level",
+    "version_number": "2.0.0",
+    "website_url": "",
+    "description": "Adds in a Hospital level to REPO!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Zehs-REPOLib-1.4.2"
+  ]
+}

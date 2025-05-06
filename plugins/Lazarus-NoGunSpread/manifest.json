@@ -1,0 +1,9 @@
+{
+  "name": "NoGunSpread",
+  "version_number": "1.0.3",
+  "website_url": "https://fantasy.works/",
+  "description": "Removes the inaccurate bullet spread from all guns!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

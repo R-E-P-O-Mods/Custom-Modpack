@@ -1,0 +1,9 @@
+﻿{
+  "name": "MoreHead",
+  "version_number": "1.4.1",
+  "website_url": "https://github.com/Masaicker/repo-MoreHead/",
+  "description": "Customizable cosmetics. 简单好玩的装饰模组，提供unitypackage，供玩家自行导入模型。",
+  "dependencies": [	
+    "nickklmao-MenuLib-2.3.0"
+  ]
+}

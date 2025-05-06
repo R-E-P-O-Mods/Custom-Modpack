@@ -1,0 +1,7 @@
+{
+  "name": "MoreUpgrades",
+  "version_number": "1.4.8",
+  "website_url": "",
+  "description": "Adds more upgrade items to the game, has an library and is highly configurable.",
+  "dependencies": [ "Zehs-REPOLib-2.0.1" ]
+}

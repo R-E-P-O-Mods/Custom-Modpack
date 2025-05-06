@@ -1,0 +1,9 @@
+{
+    "name": "MenuLib",
+    "version_number": "2.4.1",
+    "website_url": "https://github.com/IsThatTheRealNick/MenuLib",
+    "description": "A library for creating UI!",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Snowbound",
+  "version_number": "1.1.1",
+  "website_url": "https://github.com/snowlance7/Snowbound",
+  "description": "Just a bunch of my ideas put in one mod",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Zehs-REPOLib-2.0.0"
+  ]
+}

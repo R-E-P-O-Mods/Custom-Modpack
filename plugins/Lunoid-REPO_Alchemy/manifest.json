@@ -1,0 +1,10 @@
+{
+	"name" : "REPO_Alchemy",
+	"version_number" : "1.1.0",
+	"website_url" : "",
+	"description" : "Adds a polished crafting system to REPO! REQUIRES OTHER MODS TO ADD RECIPES",
+	"dependencies" : [
+		"Zehs-REPOLib-2.0.1",
+		"Kistras-CustomDiscoverStateLib-1.0.0"
+	]
+}

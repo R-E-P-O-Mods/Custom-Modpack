@@ -1,0 +1,10 @@
+{
+    "name": "REPOConfig",
+    "version_number": "1.2.2",
+    "website_url": "https://github.com/IsThatTheRealNick/REPOConfig",
+    "description": "Edit mod configs in-game!",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"nickklmao-MenuLib-2.4.1"
+	]
+}

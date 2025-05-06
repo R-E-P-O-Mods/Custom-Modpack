@@ -1,0 +1,7 @@
+{
+    "name": "CustomDiscoverStateLib",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Kistras/CustomDiscoverStateLib",
+    "description": "Library for your mod that allows for custom-colored discoveries (similar to the thing you see when a valuable is encountered for the first time)",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

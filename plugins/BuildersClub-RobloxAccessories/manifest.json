@@ -1,0 +1,9 @@
+{
+    "name": "RobloxAccessories",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/3-03/RobloxAccessories",
+    "description": "Roblox Accessories is a add-on for MoreHead. This pack has over 100+ cosmetics for your R.E.P.O character!",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.2.8"
+    ]
+}

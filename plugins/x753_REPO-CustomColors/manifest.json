@@ -1,0 +1,9 @@
+{
+    "name": "CustomColors",
+    "version_number": "1.1.1",
+    "website_url": "https://github.com/x753/REPO-CustomColors",
+    "description": "Adds RGB color sliders to the Select Color page so you can select a custom color",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "MorePlayers",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/zelofi/MorePlayers",
+    "description": "Allows you to decrease or increase the max player cap.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

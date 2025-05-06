@@ -1,0 +1,10 @@
+{
+    "name": "ExtractionPointConfirmButton",
+    "version_number": "1.1.0",
+    "website_url": "https://solo.to/crithaxxog",
+    "description": "Adds a confirm button to extraction points.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Zehs-REPOLib-2.0.1"
+    ]
+}

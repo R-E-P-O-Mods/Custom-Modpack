@@ -1,0 +1,7 @@
+{
+  "name": "VanillaUpgrades",
+  "version_number": "1.0.3",
+  "website_url": "",
+  "description": "Adds more configurations to the base upgrade items similar to MoreUpgrades mod.",
+  "dependencies": []
+}

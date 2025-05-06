@@ -1,0 +1,7 @@
+{
+  "name": "ItemResistUpgrade",
+  "version_number": "1.0.4",
+  "website_url": "",
+  "description": "Adds an Upgrade to add item resistance to reduce damage while holding an Item.",
+  "dependencies": [ "Zehs-REPOLib-1.4.2","BULLETBOT-MoreUpgrades-1.2.7" ]
+}
