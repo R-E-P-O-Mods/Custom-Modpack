@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Custom BepInEx Modpack for Repo</h1>
+<h1 align="center">🎮 Custom BepInEx Modpack for R.E.P.O.</h1>
 
 <p align="center">
   📦 Плагины • 🛠 Патчеры • ⚙️ Конфигурации<br>
@@ -33,7 +33,7 @@ git clone https://github.com/R-E-P-O-Mods/Custom-Modpack.git .
 
 ## 🔄 Обновление модов
 
-Для обновления до последних версий модов:
+Для обновления до последних версий модов, запусти:
 
 ```bash
 update_mods.bat
