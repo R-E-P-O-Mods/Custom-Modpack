@@ -66,8 +66,6 @@ git pull origin master
 
 Ниту.
 
----
-
 <p align="center">
   <sub>🎮 Made with ❤️ for the Repo community • by <a href="https://github.com/R-E-P-O-Mods">R-E-P-O-Mods</a></sub>
 </p>
