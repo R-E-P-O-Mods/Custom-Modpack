@@ -26,6 +26,8 @@ BepInEx/
 4. 💻 Выполните команду:
 
 ```bash
+git config --global --add safe.directory (Get-Location).Path
+
 git clone https://github.com/R-E-P-O-Mods/Custom-Modpack.git .
 ````
 
