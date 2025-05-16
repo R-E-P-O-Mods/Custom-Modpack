@@ -1,3 +1,13 @@
+## v1.0.6
+- Some small navmesh and valuable positioning fixes
+## v1.0.5
+- Fixed some kill triggers being slightly too big and overlapping with other tiles
+- Forgor
+## v1.0.4
+- Fixed a bunch of map stuff
+- Fixed doors not always having collision
+- Slightly changed the appearance of closets
+- Fixed some misc other stuff
 ## v1.0.3
 - Fixed some navmesh issues
 - Fixed some valuable positions

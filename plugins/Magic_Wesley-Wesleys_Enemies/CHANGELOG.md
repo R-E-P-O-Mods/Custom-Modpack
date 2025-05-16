@@ -1,3 +1,10 @@
+## v1.3.0
+- Added Voodoo
+- Added The voodoo doll valuable
+- Fixed soldier not being able to get hurt from impact
+- Made the roaster's ambience slightly quieter
+- Slight change to the soldiers gun visuals and sounds
+- Some optimisations
 ## v1.2.4
 - The destroyer is now much more powerful
 - Droids and Destroyers, when passive, will no longer see you while crouching

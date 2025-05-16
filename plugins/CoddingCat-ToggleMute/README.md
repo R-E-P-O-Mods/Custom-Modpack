@@ -2,11 +2,7 @@
 
 Creates a fully customizable toggle mute button with visual indicator,
 
-* If theres any glitches you've found, dm me on discord: "coddingcat"
-
-### FOR ANY MISSUNDERSTANDING
-
-- ToggleMute mod indeed is a *CLIENT-SIDED* mod, sadly i cant remove server-sided tag from the mod page
+* If theres any glitches you've found, dm me on discord: "codding_cat"
 
 ### Features
 * Visual Representation of Mute being on and off

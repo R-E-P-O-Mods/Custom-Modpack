@@ -1,0 +1,10 @@
+{
+    "name": "AbioticFactorValuables",
+    "version_number": "1.1.2",
+	"website_url": "https://github.com/nikkidarkmatter/Nikki-AbioticFactorValuables",
+    "description": "Adds 40 new items with various properties from the game Abiotic Factor!",
+    "dependencies": [
+	"Zehs-REPOLib-2.1.0"
+	, "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

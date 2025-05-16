@@ -1,3 +1,6 @@
+## 0.1.0
+- You can now set the keybind by just writing.
+
 ## 0.0.9
 - New Repo on github is out
 - New license is used for the mod

@@ -1,0 +1,13 @@
+{
+  "namespace": "deB",
+  "name": "WILDCARD_REPO",
+  "description": "Adds content based on YouTube org WILDCARD!",
+  "version_number": "0.16.18",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Zehs-REPOLib-2.1.0",
+    "DaXcess-FixPluginTypesSerialization-1.0.0"
+  ],
+  "website_url": "https://github.com/TheDebbyCase/REPOWildCardMod",
+  "FullName": "deB-WILDCARD_REPO"
+}

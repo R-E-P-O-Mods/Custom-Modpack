@@ -1,6 +1,6 @@
 {
     "name": "MorePlayers",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "https://github.com/zelofi/MorePlayers",
     "description": "Allows you to decrease or increase the max player cap.",
     "dependencies": [

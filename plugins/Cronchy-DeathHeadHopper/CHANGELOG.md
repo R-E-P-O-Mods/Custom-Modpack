@@ -1,3 +1,7 @@
+## v2.1.4 - v2.1.5
+* **Fixed** errors that would occur in the REPO beta release when the head charger battery is empty
+* **Fixed** playerDeathHead NullReference error
+
 ## v2.1.3
 
 * **Fixed** charger errors for REPO beta release v0.1.2.21__beta.

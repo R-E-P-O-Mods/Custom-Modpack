@@ -1,7 +1,7 @@
 ﻿{
   "name": "ToggleMute",
   "description": "Adds a fully customizable CLIENT SIDE toggle mute to R.E.P.O",
-  "version_number": "0.0.9",
+  "version_number": "0.1.0",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
   ],

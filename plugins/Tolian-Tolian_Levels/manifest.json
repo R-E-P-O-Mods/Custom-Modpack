@@ -1,0 +1,10 @@
+{
+    "name": "Tolian_Levels",
+    "version_number": "0.2.4",
+    "website_url": "https://github.com/Toliann",
+    "description": "adds new levels a game. by tolian!",
+    "dependencies": [
+	"BepInEx-BepInExPack-5.4.2100",
+	"Zehs-REPOLib-2.1.0"
+    ]
+}

@@ -1,0 +1,9 @@
+﻿{
+  "name": "GreensCosmetics",
+  "version_number": "0.1.1",
+  "website_url": "",
+  "description": "Green's cosmetic additions for MoreHead.",
+  "dependencies": [
+      "YMC_MHZ-MoreHead-1.3.10", "Maygik-MoreHeadUtilities-1.0.5"
+  ]
+}

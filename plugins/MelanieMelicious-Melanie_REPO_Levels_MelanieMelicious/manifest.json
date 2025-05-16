@@ -1,0 +1,10 @@
+{
+  "name": "Melanie_REPO_Levels_MelanieMelicious",
+  "version_number": "0.1.1",
+  "website_url": "",
+  "description": "Currently adds 1 level based on one of my Lethal Company interiors. More tile variety, decor, and levels to be added in future updates. Ideas, and suggestions appreciated. You can find me on the R.E.P.O modding Discord.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Zehs-REPOLib-2.0.0"
+  ]
+}

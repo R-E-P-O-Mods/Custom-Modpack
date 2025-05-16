@@ -1,3 +1,9 @@
+# DON'T USE THIS ANYMORE
+- This has been out of date for quite some time, and I don't plan on updating it anytime soon, please use these instead:
+> [MorePlayersImproved](https://thunderstore.io/c/repo/p/Spindles/MorePlayersImproved/)
+
+> [RoboUnion](https://thunderstore.io/c/repo/p/linkoid/RoboUnion/)
+
 # ⚠️ YOU MUST USE THE BEPINEX VERSION LISTED ON THE THUNDERSTORE PAGE [HERE](https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/)!
 # MorePlayers
 Are you tired of not being able to change the max player count in R.E.P.O.? Well BOY do I have something for you!
